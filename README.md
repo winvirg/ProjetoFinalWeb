@@ -1,26 +1,42 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: UrHealt
 
-Breve descrição do que o seu projeto faz.
+Uma aplicação onde o usuario pode agendar uma consulta medica em uma clinica.
 
 ## :technologist: Membros da equipe
+Thiago Winvirg - CC - 473160
+Bruno Melo - ES - 510709
 
 Matrícula, nome e curso dos participantes.
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
-
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+Usuario logado
+Usuario não logado
+Usuario clinica
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+Usuario
+Clinica
+Consulta
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
+**Usuario não logado**
+*Ver clinicas*
+*Cadastrar*
 
+**Usuario Logado**
+*Agendar Consulta*
+*Ver Agendamento*
+*Cancelar Consulta*
 
+**Clinica**
+*Confirmar Consulta*
+*Colocar agenda de horarios livres*
+*Ver Consulta*
+*Cancelar Consulta*
+*Remarcar Consulta*
 ----
 
 :warning::warning::warning: As informações a seguir devem ser enviadas juntamente com a versão final do projeto. :warning::warning::warning:
