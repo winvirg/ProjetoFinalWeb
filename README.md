@@ -3,7 +3,7 @@
 Uma aplicação onde o usuario pode agendar uma consulta medica em uma clinica.
 
 ## :technologist: Membros da equipe
-Thiago Winvirg - CC - 473160
+Thiago Winvirg - CC - 473160 <br/>
 Bruno Melo - ES - 510709
 
 Matrícula, nome e curso dos participantes.
